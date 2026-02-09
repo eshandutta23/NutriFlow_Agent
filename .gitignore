@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Virtual env
+venv/
+.env/
+
+# OS
+.DS_Store
+
+# Gradio
+gradio_cached_examples/
